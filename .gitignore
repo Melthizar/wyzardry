@@ -20,3 +20,11 @@ ENV/
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Version control
+.git/
+.github/
+
+# Keep versions directory
+!versions/
+!versions/**
