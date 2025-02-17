@@ -1,0 +1,23 @@
+{
+  "name": "wyzardry",
+  "version": "1.0.0",
+  "description": "A project for Wyzardry application.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    // Add your project dependencies here
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "jest": "^26.0.0",
+    "@types/jest": "^26.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.0.0",
+    "@typescript-eslint/parser": "^4.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
