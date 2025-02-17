@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell 5",
+    "terminal.integrated.profiles.windows": {
+        "Windows PowerShell 5": {
+            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": []
+        }
+    },
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "default"
+}

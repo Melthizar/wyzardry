@@ -1,0 +1,46 @@
+WYZARDRY - Development Tracking
+
+COMPLETED:
+- Basic project structure setup
+- Initial Pygame window implementation
+- Grid class skeleton
+- Player class skeleton
+- Basic test framework
+
+IN PROGRESS:
+- Implementing grid drawing system
+- Adding player movement controls
+- Setting up collision detection
+
+TODO:
+1. Core Mechanics
+   - Complete grid system implementation
+   - Add player movement on grid
+   - Implement turn system
+   - Add basic collision detection
+
+2. Graphics
+   - Add proper sprite for player
+   - Implement tile-based grid visualization
+   - Add basic animations
+
+3. Game Logic
+   - Add game states (menu, playing, paused)
+   - Implement basic combat system
+   - Add simple AI for enemies
+
+4. Testing
+   - Expand grid tests
+   - Add player movement tests
+   - Add game state tests
+
+NEXT STEPS:
+1. Complete the draw_grid function in main.py
+2. Implement player movement in Player class
+3. Add grid position validation in Grid class
+
+NOTES:
+- Using Python 3.11+
+- Pygame for graphics
+- Grid-based movement (chess-style)
+- Turn-based combat system planned
